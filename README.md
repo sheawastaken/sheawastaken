@@ -1,10 +1,10 @@
-## Started as a terrible ROBLOX dev, ready to learn more :D
+## silly silly silly silly silly silly
+### hii im shea i like breaking things 
 
 ### Langs im learning:
   - C#
   - JS
   - LUA
-
 
 
 <!--
