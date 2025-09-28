@@ -1,6 +1,4 @@
-## ⚠️welcome!⚠️
-### 1st year software dev apprentice and wannabe game dev
-### most projects are private!
+# swearing at code improves efficiency
 
 <!--
 **sheawastaken/sheawastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
