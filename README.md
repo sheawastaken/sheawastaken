@@ -1,12 +1,12 @@
 # > Hai! I'm mim
 ## this account is mainly for private repositories!
 
-### things i am actively learning as of now:
+### im learning things, currently focusing on:
   - OOP
   - SQL | Databases in general
-  - Becoming a Terminal power-user
+  - Powershell & Windows Terminal 
 
-### extra things i am interested in:
+### extra things i am interested in and do:
   - Cybersecurity
   - Game Dev
   - Making soundtracks
